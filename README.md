@@ -11,6 +11,7 @@ bike-demand-modeling/
 ├── data/
 │   ├── raw/
 │   │   ├── day.csv          # Daily aggregated bike-sharing data
+|   |   ├── hour.csv         # Hourly aggregated bike-sharing data
 │   │   └── Readme.txt       # Dataset documentation
 │   └── processed/           # Reserved for cleaned/transformed outputs
 ├── notebooks/
